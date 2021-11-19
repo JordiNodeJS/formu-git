@@ -63,8 +63,6 @@ const validar = event => {
   }
 }
 
-// Estilo los mensajes de error y validez
-
 // añado los listeners al formulario
 const listeners = [
   form.nombre,
